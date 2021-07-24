@@ -1,4 +1,4 @@
-name: Code check
+name: my-code-testing
 
 on:
   push:
